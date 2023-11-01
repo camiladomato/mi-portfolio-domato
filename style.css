@@ -1,0 +1,13 @@
+nav{
+    background-color: #712cf9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+li a {
+    color: white !important;}
+.carousel-item img{
+    height: 60vh;
+    object-fit: cover;
+    object-position: center;
+}
